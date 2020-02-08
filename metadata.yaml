@@ -1,0 +1,22 @@
+_repo: Road-Stop_61309
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mason, David
+    birthdate: 1924
+    deathdate: 1974
+    gutenberg_agent_id: '26303'
+    url: http://www.gutenberg.org/2009/agents/26303
+description: ''
+gutenberg_issued: '2020-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61309'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Road Stop
+url: http://www.gutenberg.org/ebooks/61309
